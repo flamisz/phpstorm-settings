@@ -4,9 +4,10 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="214658" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
@@ -52,6 +53,11 @@
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
         <option name="BACKGROUND" value="e5fafc" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd595e" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -12425,6 +12431,7 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="999988" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
